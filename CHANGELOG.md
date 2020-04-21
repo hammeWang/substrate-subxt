@@ -8,5 +8,5 @@
 - Raw extrinsic payloads in Client [#83](https://github.com/paritytech/substrate-subxt/pull/83)
 - Custom extras [#89](https://github.com/paritytech/substrate-subxt/pull/89)
 - Wrap and export BlockNumber [#87](https://github.com/paritytech/substrate-subxt/pull/87)
-- All substrate dependencies upgraded to `alpha.6`
+- All substrate dependencies upgraded to `dev`
 
